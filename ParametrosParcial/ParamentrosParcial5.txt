@@ -1,0 +1,75 @@
+(Transcrito por TurboScribe. Actualizar a Ilimitado para eliminar este mensaje.)
+
+Es posible que ustedes lo estén observando, fíjense. Estaría aquí la mitad de su avance hasta el 31 de mayo y el 100% estaría el martes 9 de junio que presentará el 15 de junio. Quiero decirle algo, si su documentación viene incompleta, no detienen a él.
+
+¿Por qué lo hacen? Porque esto no es programación. Estamos integrando en este momento los modelos de lo que han aprendido en la materia del proceso unificado y de los modelos de UML. Ahora es una aplicación fuerte como ustedes lo están trabajando.
+
+Por eso es que pido dos veces su documento. Estas dos presentaciones, por favor, son obligatorias. Si alguien, por ejemplo, no presentó la presentación 1, ya lo perdió su parcial.
+
+Si alguien, mi compañero lo iba a hacer, pero no lo hizo, y ya yo lo tenía listo, no hay nada que hacer. Y el próximo se mete nomás. No hay nada que hacer.
+
+Entonces, por favor, sean responsables. Con goón, que es lo que siempre se le dice. Si el compañero ha tenido algún problema, porque nadie quiere tener problemas a cualquier hogar.
+
+Fíjese, si no está, usted, o un interesado que es parte de él, usted súbanlo. Si lo tienen listo, no es de que yo lo tenía listo. Y por culpa de mi compañero, ya no lo subí.
+
+Porque eso ya no es él. Ustedes pueden hacerlo. No se olviden que esto tiene que venir con todo esto.
+
+No es de que, ¿hasta dónde es el avance de los goones? Todo, todo. El ciclo 1 cumple con esto. El ciclo 2 sigue avanzando.
+
+Es interactivo e incremental. No se olviden, interactivo e incremental. Eso significa, o sea, hacer con un proyecto que es dirigido por casos de uso.
+
+Y está centrado en la arquitectura. Entonces, solo dos ciclos. Entonces, así quedaría lo que es el examen.
+
+Yo voy a redactar algunas cosas. Si ustedes quieren modificar las notas, no hay ningún problema porque son números. El porcentaje y todo lo demás.
+
+Cada grupo lo puede personalizar. Si alguien no conoce bien el COVID, esto yo lo estoy colocando de manera genérica. Si lo conoce, cómo él puede adaptarlo a cómo es, no hay ningún problema.
+
+Porque el objetivo que queremos cumplir es poder determinar que los 1.000 estudiantes en cada sección cuando prueban. De tal manera que yo diga, a ver, tengo, no sé, como 3 gestiones. Tengo del 2025, el primer semestre, que eran 800 los alumnos que ingresaban y terminaron ingresando 550.
+
+El segundo semestre del 2025, postularon 300. Como eran iniciados en el país promediado. Y de los 300, entraron 200 que quedaron afuera.
+
+Sin embargo, viene el 2026 y rebasa más de un alumno. Todos quieren estar dentro de esta facultad. Entonces, de los 1.000, solo admitieron tanto.
+
+Cuando yo miro un reporte, una estadística, veo que donde hay mayor afluencia, donde hubo, les puedo decir, el boom de que todo el mundo quiere, ha sido el semestre del 1926. Eso son las estadísticas que ustedes visualizan. ¿Lo entienden? Entonces, es un problema muy conocido por ustedes.
+
+No hay ningún impedimento. Tal vez, si alguien no conoce, esto lo hace. Si lo conoce, ya tiene que empezar a trabajarlo.
+
+Cada grupo pone su aporte propio. No pueden haber todos iguales. Si veo que son igualitos, se anula.
+
+A veces, los documentos lo hacen copiar y pegar. Cuando yo descubro, siempre se descubre en cada presentación, todos los documentos iguales, por fin, no son manuales. Ya ni siquiera llegan a la presentación.
+
+Si su documento llegó incompleto, ya no llegan a la defensa, también. Así que, no se ocupen nomás de programar si hay noche o la última noche, ya no. Por si acaso, todas las presentaciones mandan su URL con su QR.
+
+¿De qué mandan? ¿De qué mandan? ¿De dónde? ¿De la base de datos? Entonces, ustedes, que todos sus códigos, ustedes los suben a su... A su Git. En su GitHub, hacen su generación. Yo digo que todos ustedes lo van a encumbrir, porque ahí cada uno lo participa, y si son menos, lo ven.
+
+Entonces, no hay momento de... Entonces, si ustedes terminan, no dice nada más que documento, y recién me voy a poner a trabajar para presentar, no. Yo tengo que saber. Si usted me dice que hizo cinco casos, los cinco están programados porque yo lo veo en su código.
+
+Sólo que su código va a seguir modificándose, porque ustedes lo van a seguir trabajando. Eso es obvio. Pero debería verse en su documento lo que ustedes quieren.
+
+¿Ya? Eso. No sé si algo más tengan que preguntar. Bueno, ya.
+
+¿Generan la porcentaje? Y si... Con respecto a los cubos por materia. Si no logro entrar a su primera materia, pero en la segunda materia tampoco hay cubo, ¿cómo hacemos con eso? ¿O automáticamente que entra en la segunda materia? Lo que pasa es que como yo tengo mil alumnos, voy a hacer... Se hace como tipo de bloque. Mil teníamos, ¿cierto? Lo divido entre 60 y ya hace otro grupo.
+
+Menos que sean menos de 10 el otro grupo para que ya lo ponga en una... Directamente usted lo crea para ese nuevo grupo. Cada materia tendrá 60 alumnos. Yo me refiero a los aprobados.
+
+Ya pasó el examen, ya hizo todo, aprobó, pero no logró entrar a su primera carrera. Y pasa a su segunda carrera. Pero la segunda carrera ya superó los cubos igual.
+
+O que se creen tantos cubos para... No, lo que pasa es lo siguiente. Es verdad eso que puede suceder, es cierto, pero ya está aprobado, ya. Cuando sucede eso, por ejemplo, los envían a la carrera que el menos estudiante tiene en la facultad.
+
+Eso lo hacen. Lo que pasa es que no puede seguirlo otra vez. Esas son excepciones.
+
+Claro, claro. ¿Quién dijo que no vamos paralelas? Ni para qué dos carreras. Es difícil, es difícil.
+
+Parece que sí. ¿PCA no? Aquí yo tenía para 350 y aquí aprobaron, no sé, 300. Entonces, en este PCA, gano los cubos porque está en el PCA.
+
+Pero nosotros no tenemos PCA, solo cubos. Solo cubos. Obviamente podemos seguir con un cubo, pero no son bien que todo lo que tenga tiene límite.
+
+Acuérdense, eso. Tiene frontera. Si no tiene frontera y límite, sería un caos total, como decían.
+
+¿Qué pasa? ¿Qué pasa? Hay un conjunto de coordinamiento, pero ponemos uno y uno en frontera. Eso sería el escenario, jóvenes. Yo le digo a Flora, se van a registrar los grupos.
+
+El que no se registró, queda fuera del examen. El que se equivocó, yo era 31 y me equivoqué, había sido 35. Ya quedó con otro compañero.
+
+No hay complicación.
+
+(Transcrito por TurboScribe. Actualizar a Ilimitado para eliminar este mensaje.)

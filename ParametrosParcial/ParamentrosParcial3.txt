@@ -1,0 +1,77 @@
+(Transcrito por TurboScribe. Actualizar a Ilimitado para eliminar este mensaje.)
+
+Voy a seleccionar desde la interfaz. El tercero, que lo pueda trabajar mediante comando de voz. Entonces ustedes le dicen, generenme lo aprobado de la gestión 1.20.26 del procesor X. Entonces, esa consulta de recorte X, procesamiento a través de audios, reconocimiento de voz en la parte de IA, un servicio de IA.
+
+Ustedes pueden utilizar el billete NINE, que es un servicio bastante accesible, o cualquier otro IA que ustedes quieran verlo, para que puedan hacer esa consulta estructurada en el baque, lo deben colocar de manera de texto, para que de ahí pueda llegar a la base ATO, y de la base ATO pueda obtener, hacer el billete, obtener toda esa información y visualizarlo en el dispositivo, ya sea como son responsivos, puede ser en el celular, puede ser en una lectora de escritorio. No se olviden que son responsivos. Hay un panel administrativo, más o menos una especie de dashboard, que quiero que lo visualicen el dashboard, coloquen ustedes aquí un dashboard principal, me permitan agregar un conjunto de características, de lo que me está emitiendo como resultado.
+
+Normalmente existen indicadores estadísticos, donde me dice, total de, si llegaron mil alumnos, pero 200 se abandonaron, 800 quedaron. De los 800 que terminaron sus exámenes, 500 aprobaron y 300 reprobaron. ¿Cuál es la carrera que más aprobaron? La carrera de sistema.
+
+¿Cuál es la segunda? Informática. ¿Cuál es la tercera? Red. ¿Cuál es la cuarta? Robótica, más o menos así.
+
+Todo lo que yo quisiera ver. Entonces, eso sería el dashboard, también cuántos grupos fueron habilitados, todo lo que me permita ver. Ejemplos, ustedes pueden agregar más, solamente como ejemplo.
+
+En la parte técnica, el front y el back, PHP, y las herramientas que ustedes quieran utilizar para poder hacerlo. Pueden utilizar la parte del framework en Arabel. No pueden usar ningún tipo de dificultad.
+
+La base A hemos colocado también, no puede ser MySQL, no pueden trabajar con MySQL, todo con PostgreSQL. Todo con PostgreSQL. No viene ningún grupo que no utilice esta tecnología que estamos colocando.
+
+Este despliegue que yo le puse, no lo calvo, esto por si acaso, solo son ejemplos, no necesariamente todos van a estar en AWS. En el servidor que ustedes busquen. De eso no se asume, no es obligatorio.
+
+Si no lo han hecho en AWS, en Azure, en Google Cloud, no importa. En el servidor que ustedes ya tienen, eso no hay problema. Aquí, generación de cuentas de usuarios.
+
+Cada usuario, a partir de los datos que se le entreguen, debería poder ingresar su contraseña. Es como cuando usted le dota, ¿no? Ustedes como estudiante tienen su nombre, que le dicen, ah, su carrera de identidad y su número de registro. Se le entrega a cada estudiante y ellos ya ingresan.
+
+Si no, ¿cómo es posible que se incluyan en el sistema? Se imaginen por los mismos datos. Entonces, esto más o menos es la característica que debería haber. Y aquí es donde dice que cada parte individual para docentes, autoridades, coordinadores y otros docentes solo pueden ver datos de su carga horaria.
+
+Es cuando ustedes le dan la asignación de los privilegios, veanlo así. A los docentes, alumnos y autoridades. Tendrán tres grupos.
+
+Los alumnos, los docentes y la autoridad. No son tres grupos para la asignación de los privilegios. Es lo que quiere decir aquí.
+
+Solo pueden ver su propio dato y así asignarán los otros privilegios para cada perfil. Y no se olviden que todo es una aplicación web. Entonces, esto, por favor, tomar en cuenta, está resaltado en mi libro.
+
+Justamente para que lo miren más. Dice, las funcionalidades de SplitTag son las esenciales. Cada grupo puede agregar otras funcionalidades.
+
+Cada grupo, aparte de lo que están mirando aquí como un lineamiento básico en el contexto de la aplicación que se está desarrollando, puede agregar nuevas funcionalidades si le es conveniente, donde lo vea. Por ejemplo, dice, a ver, aquí en los regístros aquí piden esto y aquí no está, entonces lo aumento. O aquí, yo lo voy a ver por estado cuando lo mismo ya está inscrito pero todavía no tiene grupo.
+
+O vamos a ver los profesores que se les va a asignar el horario. Hemos recibido profesores, por lo menos uno acá, profesor, tenemos que asignarle un grupo. No puedo dejar a un profesor sin grupo, no puedo dejarlo.
+
+Puede tener uno hasta cuatro grupos en los comentarios. Por eso dice aquí, lo que vea conveniente como también la comprensión de la temática y la solución al implementar es parte de la evaluación del presente examen. ¿Cómo se lo va a evaluar? Trabajaron muy bien en lo que es el budget, en lo que es el flow, en la lógica de negocio y en los algoritmos importantes que van a ser.
+
+Este es un ejemplo, aquí lo calculé sobre 80, lo hacen sobre la cantidad de alumnos que ustedes quieran, 70, 60, 50. No voy a decir, hay que decir 80. Es un ejemplo.
+
+Si yo digo 60, 60. Si yo digo 70, 70. Como le digo acá, es un ejemplo.
+
+Entonces, el sistema debería tener diseño profesional, validaciones, manejar errores, tener comentarios en el código y aplicar buenas prácticas en las prácticas. No se olviden que ustedes manejan un JIT donde está un repositorio y cada uno lo sube. Entonces, yo me imagino que ustedes deben tener una estabilización como poder estabilizar su código para que no exista conflicto y pueda integrar cuando lo hagan en GitHub sin ningún tipo de impedimento.
+
+¿Cómo van a presentar su documento? Entonces, en su documento tienen una carácter, le ponen un título, cada uno le pone el título como guste. Pero no se olviden que un título siempre tiene un cumplimiento de que es el objetivo que ustedes van a colocar. Porque el título, nada más que le he colocado ahora, es el grupo que lo llaman título de la aplicación.
+
+Ustedes le deben colocar. Por eso dice, el título de la aplicación fue número de grupo porque a veces no le colocan. Es importante que le coloquen el número de grupo y quiénes son sus integrantes.
+
+Es la carácter, tiene que ver. La tabla de contenido, cada vez que presentan, van a presentar dos veces, actualicenlo porque a veces lo hacen y no lo actualizan. No se olviden que están utilizando un mapa de documentos.
+
+Entonces, lo único que ustedes hacen es actualizarlo porque tienen una plantilla con título, título, tipo de letra, los nombres. Hacen eso antes de hacer el documento. Entonces, cuando usted diga actualizar solito, se actualiza la tabla de contenido.
+
+No hay de que yo tengo que copiar títulos o signos. Eso aquí, por eso es la tabla de contenido. El perfil no tiene muchas cosas, solo tiene la introducción el objetivo general específico describe el problema y el alcance. 
+
+Nada más. Nada más. No hay cualquier proyecto grande.
+
+El número dos, el marco teórico. Todo el marco teórico de admitir a los alumnos en la universidad, todo lo que ustedes consideren como marco teórico referencial y metodológico, lo colocan aquí. Empezamos ya con el modelo de negocio. 
+
+En este modelo de negocio, el que quiere puede utilizar el de Chicago, el que quiere puede utilizar el modelo de diagrama de actividad. ¿Entienden? Eso es opcional. Si no quieren utilizar el de Chicago, hagan todos los modelos de negocio.
+
+Cómo admitir a los alumnos que vienen a hacer el diagrama de actividad. ¿Cómo hago para calcular si se aprobaron o no aprobaron? ¿Cómo distribuimos la carga horaria de los docentes, los grupos y todo lo demás? Y así van buscando aquí. Este modelo de negocio es uno del diagrama de actividad.
+
+Aquí en captura de requisitos, que no lo he puesto en un conjunto, son los cinco que ustedes saben. ¿Cuáles son? Encontrar la clave del caso de uso, priorizar caso de uso, detallar caso de uso, prototipo de la interfaz y estructurar el modelo de caso de uso. Venimos al análisis.
+
+Tienen cuatro actividades. ¿Cuáles son? Análisis de arquitectura. ¿Qué más? Análisis del caso de uso.
+
+¿Qué más? Análisis del caso. ¿Y el último? Análisis del paquete. Venimos al diseño.
+
+Aquí primero me ponen el modelo de despliegue. El modelo realizado en paquete. Son dos.
+
+Diseñar caso de uso. Los diagramas de secuencia con fragmentos. Tienen O. Tienen A. Pero son diagramas de secuencia.
+
+Originalmente su base de datos es todo esto. El diagrama de clase. El mapeo.
+
+La normalización. Si ustedes están utilizando este método para cargar mi datos, ¿por qué no habrá un ínsero que ponga tablita tablita, tufla por tufla en la tabla que precisa? Cualquier procedimiento que ustedes usen.
+
+(Transcrito por TurboScribe. Actualizar a Ilimitado para eliminar este mensaje.)

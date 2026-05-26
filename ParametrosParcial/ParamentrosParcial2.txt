@@ -1,0 +1,69 @@
+(Transcrito por TurboScribe. Actualizar a Ilimitado para eliminar este mensaje.)
+
+...debe recibir un conjunto de nuevos postulantes que quieren ser alumnos de la facultad, aspiran a ser alumnos de la SIC. Estos postulantes presentan un conjunto de requisitos que más allá de los detalles, no solamente está SIC, pero aquí dice directamente la condicionante que esto quiero verlo muy bien en su diagrama de secuencias, por toda la condición SIC. Para eso no necesita un diagrama de secuencias, cuando da el título también.
+
+Entonces aquí dice, si cumple los requisitos, entonces recién efectuó el pago. Los requisitos hacen un check, ustedes dicen, tiene 10 requisitos por decirle a ustedes, o colocan cuáles son, y tiene el número 1, el 2, el 3, el 5. Si uno de ellos, por ejemplo, no tiene, entonces no se puede ingresar. O sea, cualquiera va a pagar si no se la puede registrar.
+
+Entonces ustedes deben verificar en la aplicación que están haciendo, que todos los requisitos sean un check, un verdadero check. Si todo cumple, recién, eso es lo que quiere decir esto. Entonces recién ustedes utilizan una pasarela de pago, no es pago en efectivo, ni pago en jueves, para que aprendan a manejar pasarela de pago.
+
+Esa pasarela puede ser STRIPE, puede ser FESPAL, puede ser LIDERLUNA, o cualquiera que ustedes quisieran. Y acá el grupo lo elige y que lo va a pagar. Luego, luego van a registrarse en el sistema.
+
+Entonces ahí les hará el horario, la fecha, el día de cuándo se va a registrar, no sé bien qué es usted o qué es mi portavoz. Una vez que los requisitos fueron registrados, entonces pagó, lo único que ya por el lado de la facultad, si quieren verlo, les hará el horario y el día cuándo se debe registrar. Entonces ese día se registrará, eso lo va a hacer.
+
+Entonces, de acuerdo a la cantidad de alumnos inscritos, porque es la temática en realidad, de acuerdo a la cantidad de inscritos, lo organiza el grupo, hemos quedado en 70 alumnos, 70 alumnos por grupo, por decirlo, 60, como quieran ustedes, pero es una cantidad. Si yo recibo 1.000, entonces lo calculo y son como 15 grupos. Las áreas que estos estudiantes van a pasar para hacer un tipo de reforzamiento, para que vayan bien sus exámenes, son las cuatro materias que tiene la facultad, computación, matemáticas, matemáticas y crisis.
+
+Para evitarnos de que estén dentro del mucle dando un examen y que dan todas las materias, vamos a hacerlo nosotros un poquito más específico. Cada una de estas materias se va a rendir tres exámenes. Pero la condicionante sería de que no, porque las cuatro materias de 1,5 de 70 ya aprobó, no.
+
+Todas las materias deben aprobar mayores o iguales a 60. Todas las materias. Este, por ejemplo, matemáticas sacó 55.
+
+Computación se sacó 100, ingenio sacó 100, ese ya sacó 90, pero matemáticas, 55. Si no promedio, obviamente va a dar como 80. No, todas las materias deben ser mayores o iguales a 60.
+
+Esa es una política de negocio, ¿verdad? Por favor, tomen en cuenta. Entonces dice, todas las materias, la nota final de cada materia en realidad es, debe tener mayores o iguales a 60. No el promedio de las cuatro da mayores a 60.
+
+Por favor, no hacer eso, porque no va a conducirse así. No es la política de negocio. Dice, la facultad lo dividirá, más o menos, por 70 estudiantes, el equipo y yo por 70, por cada grupo.
+
+El objetivo es poder analizar, diseñar y desarrollar una aplicación web, por eso es lo que van a hacer. El primer módulo, autenticación y autorización. Así como han aprendido en el ciclo número 1 y 2, que han ido reforzando en inicio de sesión, las contraseñas combinaditas con minúsculas, mayúsculas y números, que ustedes ya saben cómo es.
+
+La autenticación, unidos a su contraseña, entonces ustedes envían a su correo para que pueda recuperarlo. Y así se hacían todo eso. Tal vez nunca están descritos, pero ese es el cumplimiento.
+
+Autorización y autenticación. Entonces, aquí lo podemos observar, hacemos la validación en efectiva, el módulo 2, registro y potular. Aquí hay algunos requisitos.
+
+Si ustedes quieren poner otro, pero lo mínimo que va a cumplir de repente son estos. Si ustedes consideran un grupo de sangre, por ejemplo, que no está aquí, porque ese es importante, porque con eso ya queda registrado para universidad. Le piden, pero si ustedes quisieran agregar, la funcionalidad es mínima, que debe estar registrado, que debe permitir actualizar, que debe permitir hacer reportes.
+
+La validación es evitar que se han duplicado, validar su correo electrónico, validar que no queden los campos vacíos y todo eso. En el tercer módulo, aquí están los exámenes. Funcionalidades de los exámenes de las cuatro materias.
+
+Cada materia, por ejemplo, va a permitir tres notas. Y aquí está la regla de negocio. Tres exámenes por materia de cada estudiante.
+
+Tres exámenes por materia de cada estudiante. En algunos no tan explícito, pero lo que se quiere decir es que son tres exámenes de rinde por materia. Con la ponderación que ustedes le den, pueden darle, si ustedes quieren, 30, 30, 40, y hacen los cinco.
+
+Eso depende de cada uno. Por eso dice las notas son calificadas de 0 a 100 y su aplicación lo hace por porcentaje. La nota tenía 100, entonces el porcentaje es 30.
+
+También se recomendó que ustedes utilicen algún mecanismo de introducir datos para que no lo hagan tan manual y tengan por lo menos 500, 1.000, 2.000 estudiantes de la gente que postula. Entonces, si ustedes quieren tener 1.000 estudiantes, 2.000, no terminan nunca si lo hacen manualmente. Se puede utilizar la tasa C. Y todos los alumnos lo registran y ustedes aleatoriamente le ponen nota de 0 a 100 y no le ponen a todo esto 100.
+
+A todo esto lo cargan de 0 a 100. Nota 1, nota 2, nota 3. Ahora, la aplicación ya haría los porcentajes. Cada vez que el alumno tiene 100, lo multiplico por el 30%, sacó 30.
+
+Este alumno sacó 1, pero el 30% tiene 0. Más o menos así. Porque la aplicación se debe hacer. ¿Listo? Entonces, ahí estaría el acuerdo.
+
+Finalmente, la idea sería que los aprobados sumar que hayan los mayores igual a 60 por materia. No por el promedio de las cuatro materias. Y los que estén mejor a 60, lamentablemente no ingresaron.
+
+Pero hay una cohesión antes, ¿no? Se debe ver el grupo de alumnos que hay por cada carrera, por cada gestión. Por ejemplo, en esta segunda gestión, si en la primera gestión yo admitía 300 alumnos para hacer temas, en esta segunda gestión solamente admito 150 alumnos, ya no 300, como era la primera vez. Porque no hay capacidad para poder ingresar tanto alumno.
+
+Entonces, el alumno debería tener la carrera 1 y la carrera 2, más o menos esa, ¿no? La carrera 2 es lo que se tiene que hacer. Algunas funcionalidades que ya hablamos. Aquí está la asignación de grupo.
+
+Cuatro, módulo de asignación de grupo. La carrera recibe la cantidad de estudiantes, suponiendo que nada más estén interesados 70, 70, solamente sería un grupo. Así fuera 71, ya hay dos grupos.
+
+Para que el criterio de la lógica del algoritmo que van a hacer en el código, si son 71, ya va a decir dos grupos. No me pueden decir, no importa un grupo, no. Si son 71, ya hay dos grupos.
+
+Si fueran 140, hay dos grupos. Si hay 143, ya yo digo tres grupos. Para los creadores, no más que nada.
+
+Entonces visualiza todos los reportes. Los reportes, deberán ser generados los reportes por todos los criterios que ustedes quieran. Miren, hay por potulante, aprobado, desprobado, por grupo, por dictado.
+
+Criterio de cada uno que genere más reportes. Esto es un ejemplo, nada más. Pero hay esta parte aquí opcional, donde les dije yo que estos reportes, por lo menos dos formatos usen, ¿no? Un PDF, un Excel, un CCD, un HTML, o cualquier otro reporte que ustedes quisieran ver.
+
+Entonces, eso significa de que yo puedo exportar a Excel, incluso. Este de aquí, este que está marcado aquí, le dije que pueden usar audio. En el video de reporte, tres tipos de características.
+
+Uno, por consulta estructurada, donde dice Excel, Chrome, Word, y Excel sale estácticamente como lo colocaron. No puede salir más. Segundo reporte, que yo miro la interfaz y elijo.
+
+Quiero por nombre, por grupo, y por gestión. O es puro profesor.
+
+(Transcrito por TurboScribe. Actualizar a Ilimitado para eliminar este mensaje.)
